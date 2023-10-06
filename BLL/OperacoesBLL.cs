@@ -4,7 +4,7 @@ using PrimeiraAPI.Models;
 
 namespace PrimeiraAPI.BLL
 {
-    public class _IOperacoesBLL : IOperacoesBLL
+    public class OperacoesBLL : IOperacoesBLL
     {
         public float SOMA(float num1, float num2)
         {
